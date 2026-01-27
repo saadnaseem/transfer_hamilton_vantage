@@ -1,7 +1,7 @@
 Component,Low Concentration,High Concentration,Dilution Factor
 Phosphates,20,500,25
 NH4SO4,200,1000,5
-CoCl2,0.002,4,2000
-Succinate,30000,30000,1
+CoCl2,0.0125,0.5,2000
+Succinate,75,600,400
 Methanol,3000,3000,1
-PQQ,100,1000,10
+PQQ,0.0025,0.25,100
