@@ -1,7 +1,7 @@
 Well,Component,Concentration
-A1,Phosphates,20
-B1,NH4SO4,200
-C1,CoCl2,0.02
-D1,Succinate,75
-A2,Methanol,3000
-B2,PQQ,0.0025
+C1,Phosphates,50.0
+C2,NH4SO4,100.0
+C3,CoCl2,0.02
+C4,Succinate,40.0
+C5,Methanol,1500.0
+C6,PQQ,0.0025

@@ -1,0 +1,9 @@
+Source_Plate,Source_Well,Dest_Plate,Dest_Well,Transfer_Vol
+s4,C4,dest_1,A1,6.74
+s4,C4,dest_1,G5,7.83
+s4,C4,dest_1,G7,0.29
+s4,C4,dest_1,H9,3.38
+s4,C4,dest_2,I9,7.83
+s4,C4,dest_2,N33,6.74
+s4,C6,dest_3,N50,1.31
+s4,C4,dest_3,N81,0.29

@@ -1,7 +1,7 @@
 Variable,Min,Max
 Phosphates,0.5,50
 NH4SO4,1,100
-CoCl2,0.00001,0.1
+CoCl2,0.0001,0.1
 Succinate,0,150
 Methanol,15,500
 PQQ,0,0.005
